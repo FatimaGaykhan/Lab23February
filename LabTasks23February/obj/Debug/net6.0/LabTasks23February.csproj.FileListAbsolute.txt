@@ -1,0 +1,14 @@
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\bin\Debug\net6.0\LabTasks23February.exe
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\bin\Debug\net6.0\LabTasks23February.deps.json
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\bin\Debug\net6.0\LabTasks23February.runtimeconfig.json
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\bin\Debug\net6.0\LabTasks23February.dll
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\bin\Debug\net6.0\LabTasks23February.pdb
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.AssemblyInfoInputs.cache
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.AssemblyInfo.cs
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.dll
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\refint\LabTasks23February.dll
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.pdb
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\LabTasks23February.genruntimeconfig.cache
+C:\Users\fatimaeg\Desktop\LabTasks23February\LabTasks23February\obj\Debug\net6.0\ref\LabTasks23February.dll
